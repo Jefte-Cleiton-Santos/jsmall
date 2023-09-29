@@ -829,14 +829,14 @@ Categories & Collections Style
 */
 
 .categories-collections {
-  background-image: url(../images/dark-bg.jpg);
+  background-color: #3f3a3a71;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   padding: 120px 0px 150px 0px;
   position: relative;
 }
-
+*/
 .categories-collections:after {
   background-image: url(/assets/images/category-collection-dec.png);
   width: 300px;
@@ -1008,7 +1008,7 @@ Create NFT Style
 */
 
 .create-nft {
-  background-image: url(../images/main-bg.jpg);
+  background-color: #3f3a3a71;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1104,7 +1104,7 @@ Currently Market Style
 */
 
 .currently-market {
-  background-image: url(../images/dark-bg.jpg);
+  background-color: #3f3a3a71;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1244,8 +1244,8 @@ Footer Style
 */
 
 footer {
-  background: rgb(125,90,254);
-  background: linear-gradient(132deg, rgba(125,90,254,1) 25%, rgba(160,84,244,1) 100%);
+  background: #0c0c0c;
+  background: linear-gradient(132deg, #29292b 25%, #5e5963 100%);
   text-align: center;
   padding: 25px 0px;
 }
